@@ -12,8 +12,6 @@ blurb: "A brilliant combination of wit, sass and skill. A must-meet."
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
 skills:
   - JavaScript
-  - C#
-  - .NET
   - SQL
   - Angular.js
   - HTML
